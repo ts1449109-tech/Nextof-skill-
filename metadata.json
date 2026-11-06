@@ -1,0 +1,6 @@
+{
+  "name": "NEXTOF - Global AI Education & Skill Platform",
+  "description": "Global AI Education and Complete Skill Development Platform founded by Tarun Sir. Master Class 6-12 school curriculum and high-value technical trades with interactive AI teacher, blackboard, and video classroom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

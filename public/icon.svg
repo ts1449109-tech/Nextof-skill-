@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0F172A"/>
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="50%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <!-- Geometric N with Learning Book Wings -->
+  <path d="M128 140V372L224 236V372H256V140L160 276V140H128Z" fill="url(#grad1)"/>
+  <path d="M280 140V372H312V240L384 372H416V140H384V272L312 140H280Z" fill="url(#grad2)"/>
+  <circle cx="256" cy="110" r="24" fill="#38BDF8"/>
+  <!-- Glowing subtle spark -->
+  <polygon points="256,60 262,85 287,91 262,97 256,122 250,97 225,91 250,85" fill="#FDE047"/>
+</svg>
